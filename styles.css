@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100v;
+flex-direction : column;
+	
+}
+
+#form{
+	display:flex;
+	flex-direction:column;
+	gap:20px;
+}
+
+
+
+#tid>td{
+min-width = 50px;
+}
+
+#heading>h2{
+	font-style:italic;
+	font-family:sans-serif;
+}
