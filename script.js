@@ -17,7 +17,7 @@ let input2 = document.getElementById("player2")
 // let player1 = input1.value;
 // let player2 = input2.value;
 
-function table() {
+function table() { 
   const table = document.createElement("table");
   table.style.border = "1px solid black";
   table.style.backgroundColor = "pink";
